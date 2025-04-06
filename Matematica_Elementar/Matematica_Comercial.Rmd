@@ -1,13 +1,14 @@
 ---
-title: "Volume_XI"
+Book: "Fundamentos da Matematica Elementar"
+Volume: "Volume_XI"
 Chapter: "Matematica Comercial"
-author: "Philipe Mota"
+author: "Gelson Iezzi"
 output: html_document
 ---
 
 ## Introdução
 
-Este arquivo contem a resolução dos problemas do livro "Fundamentos da Matematica Elementar" Volume 11 Capítulo I
+Este arquivo contem a revisão e resolução dos problemas do livro "Fundamentos da Matematica Elementar" Volume 11 Capítulo I
 
 Matematica Comercial
 
