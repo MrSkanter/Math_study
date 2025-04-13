@@ -3,7 +3,6 @@
 # 📘 Math_Study
 
 Este repositório é dedicado à minha jornada de estudos em Matemática.  
-Aqui você encontrará anotações de revisão, soluções comentadas de problemas e exercícios, além de uma curadoria dos materiais que estou utilizando ao longo do caminho.
 
 ## ✍️ Objetivo
 
